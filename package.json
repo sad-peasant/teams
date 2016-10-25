@@ -1,0 +1,19 @@
+{
+  "name": "teams",
+  "version": "1.0.0",
+  "description": "Team API",
+  "main": "server.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sad-peasant/teams.git"
+  },
+  "author": "Sad Peasant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sad-peasant/teams/issues"
+  },
+  "homepage": "https://github.com/sad-peasant/teams#readme"
+}
