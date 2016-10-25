@@ -1,0 +1,6 @@
+{
+  "db": {
+    "inMemory": "IN_MEMORY",
+    "url": "DB_URL"
+  }
+}
