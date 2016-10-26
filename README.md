@@ -1,1 +1,1 @@
-# teams
+[![Build Status](https://travis-ci.org/sad-peasant/teams.svg)](https://travis-ci.org/sad-peasant/teams)
